@@ -33,8 +33,18 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 projeto3-alura-book/
 │
-├── css/                # Arquivos de estilo (tema claro e escuro)
-├── index.html          # Página principal
+├── css/
+│ ├── carrossel.css
+│ ├── contato.css
+│ ├── header.css
+│ ├── main.css
+│ ├── reset.css
+│ ├── rodape.css
+│ └── style.css   
+│ └── topicos.css
+├── img/
+│ └── ...
+├── index.html  
 ````
 ## ▶️ Como executar localmente
 Faça o download do projeto:
